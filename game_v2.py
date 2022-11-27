@@ -22,7 +22,7 @@ def random_predict(number:int=1) -> int:
     return(count)
 
 def score_game(random_predict) -> int:
-    """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
+    """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм fglfd;g
 
     Args:
         random_predict ([type]): функция угадывания

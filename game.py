@@ -4,7 +4,7 @@ import numpy as np
 
 number = np.random.randint(1, 101) #загадываем число
 
-#количество попыток
+#количество попыток ff
 count = 0
 
 while True:
